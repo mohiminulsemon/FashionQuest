@@ -3,3 +3,9 @@
     color: #CFCFCF;
     font-size: 13px;
 }
+
+.background-img {
+    background-image: url(./images/blurry-gradient-haikei.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
